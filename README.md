@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A high school student that loves programming</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
