@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=DylanBruner&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 Currently programming a 6 foot tall robot.<br>🌱 I’m currently learning Kotlin/C<br>⚡ Fun fact, I LOVE Java
 
